@@ -1,7 +1,6 @@
 # BlogPro - CRUD Blog Management System
 
 ![BlogPro Screenshot](pic.jpg) 
-<img src="pic.jpg">
 
 A professional blog management system with full CRUD functionality, built with modern web technologies.
 
